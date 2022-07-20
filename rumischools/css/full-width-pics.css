@@ -148,3 +148,13 @@ h4 {
 .section_poa {
   background-color: #FADBD8; /*#ffecb7;*/
 }
+
+.outro_contact {
+  margin-bottom: 60px;
+}
+
+.section_bottom {
+  text-align: center;
+  background-color: #cfcfcf;
+  padding:  20px;
+}
